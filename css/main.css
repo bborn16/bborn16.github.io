@@ -1,8 +1,10 @@
 #jumbo1 {
   text-align: left;
-  background-image: url('../images/samplegradient.png');
-  background-repeat: repeat-x;
-  background-size: 70% 100%;
+  background-image: url('../images/maxpatch.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
   margin: 0px;
   color: #fff;
 }
